@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hey, I'm David Pagliano
 
-<!--
-**DavidPagliano/DavidPagliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a focus on **.NET Core**, **Angular**, and **MERN**.  
+I enjoy building scalable systems, well-structured architectures, and solving real problems with clean code—old-school discipline with modern tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack I Use the Most
+**Backend**
+- .NET Core 8 · C#  
+- Node.js · Express  
+- SQL Server · EF Core  
+- MongoDB · Mongoose  
+- Azure Functions
+
+**Frontend**
+- Angular (16 → 19)  
+- React · Vite  
+- Angular Material · Tailwind
+
+**Search & AI**
+- Typesense (vector & semantic search)  
+- HuggingFace Embeddings  
+- PCA Reduction & ML.NET
+
+---
+
+## 🚀 Current Projects
+- **Vector Search System** using Typesense + .NET Core + Angular  
+- **MERN Modular Architecture** for medical appointments & payments  
+- **Clean Architecture in .NET 8** (new project)  
+
+---
+
+## 📌 Highlighted Repositories
+(You can pin these in your GitHub profile)
+
+- **Typesense + .NET Core Search API**  
+- **Angular Frontend with Dynamic Filters & Semantic Search**  
+- **MERN Architecture – modular system (turnos & gestión)**  
+- **Connect-4 game (logic + UI)**  
+
+---
+
+## 📚 What I'm Learning Now
+- Optimizing embeddings (PCA, chunking strategies)  
+- Azure Graph API automation  
+- Best practices for modular architectures in large-scale apps  
+
+---
+
+## 🤝 Let's Connect
+**Email:** davidpagliano@gmail.com  
+**LinkedIn:** (add your link here)  
+
+Always open to collaborating on interesting projects or helping others improve their digital systems.
